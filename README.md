@@ -23,7 +23,7 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 The application can be downloaded from the following link:
 
-[Download Sayogi Detector APK](https://drive.google.com/file/d/16W_dV-MhLpKEiYQytEM-965Yio6C8ivt/view?usp=sharing)
+[Download Suskibirds Detector APK](https://drive.google.com/file/d/16W_dV-MhLpKEiYQytEM-965Yio6C8ivt/view?usp=sharing)
 
 ## License
 
