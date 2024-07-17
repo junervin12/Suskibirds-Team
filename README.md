@@ -23,9 +23,9 @@ The application can be downloaded from the following link:
 
 ## Dataset
 
-The dataset was obtained from Roboflow and consists of 911 images with 2 classes. The dataset can be accessed from the following link:
+The dataset was obtained from Roboflow and consists of 950 images with 3 classes. The dataset can be accessed from the following link:
 
-[Roboflow Dataset](https://universe.roboflow.com/1-kzaob/banana-classifier)
+[Roboflow Dataset](https://universe.roboflow.com/deep-learning-mk1aj/pisang-ityse)
 
 ## Model Training
 
