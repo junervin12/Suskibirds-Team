@@ -13,7 +13,7 @@ This is an Android application that detects the freshness of bananas using a dee
 
 The application can be downloaded from the following link:
 
-[Download Suskibirds Detector APK](https://drive.google.com/file/d/16W_dV-MhLpKEiYQytEM-965Yio6C8ivt/view?usp=sharing)
+[Download Suskibirds Detector APK](https://drive.google.com/file/d/1nAx90cRNW7uFl48LB5bPSi6P9lzhuodu/view?usp=sharing)
 
 ## Features
 
