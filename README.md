@@ -2,7 +2,7 @@
 
 <p>
     <img src="home.jpeg" >
-    <img src="home.jpeg" >
+    <img src="test.jpg" >
 </p>
 
 # Suskibirds Detector
