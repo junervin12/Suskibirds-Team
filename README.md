@@ -49,7 +49,7 @@ Creator
 3. Anjar Hidayat (NIM 206230001)
 4. Murdiyan Edzwan Nazib (NIM 206230006)
 
-Under Under the supervision of [Junervin](https://github.com/junervin12)
+Under the supervision of [Junervin](https://github.com/junervin12)
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
